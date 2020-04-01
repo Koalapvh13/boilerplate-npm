@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Matheus Dias Vieira"
+	"author":"Matheus Dias Vieira",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
